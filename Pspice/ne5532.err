@@ -1,0 +1,8 @@
+STATUS: PSpice Schematics to Capture translator (16.5.0.p001)
+STATUS:  
+STATUS: Translator started at Thursday, February 07, 2019 07:49:08
+STATUS: D:\DevelopProgramFiles\Cadence\SPB_16.5\tools\Capture\sch2cap -f "D:\DevelopWorkSpace\Github\ORCAD_Lib\Pspice\ne5532.lib" -o "D:\DevelopWorkSpace\Github\ORCAD_Lib\Pspice\ne5532.OLB" -i D:\DevelopProgramFiles\Cadence\SPB_16.5\tools\PSpice\PSpice.ini -d 000A0456
+INFO(ORSCH-1029): Using existing library 'D:\DevelopProgramFiles\Cadence\SPB_16.5\tools\Capture\Library\PSpice\modeled.etc'.
+INFO(ORSCH-1031): Created new library 'D:\DevelopWorkSpace\Github\ORCAD_Lib\Pspice\ne5532.olb'.
+STATUS: Translator stopped at Thursday, February 07, 2019 07:49:08
+STATUS: 0 Error messages, 0 Warning messages
